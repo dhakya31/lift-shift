@@ -19,4 +19,5 @@
     2. memcache CentOS Stream 9 (x86_64) instance which is  available in amis market place and attach the bash file which provided in userdata
     3. rabbitmq CentOS Stream 9 (x86_64) instance which is  available in amis market place and attach the bash file which provided in userdata
     4. tomcat instance ubuntu 22 
-    
+  
+3. Now build the app locally
